@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@bottender/express": "^1.4.0",
+    "@line/bot-sdk": "^6.8.4",
     "bottender": "^1.4.6",
     "express": "^4.17.1",
     "request": "^2.88.2"
